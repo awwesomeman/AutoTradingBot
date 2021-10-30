@@ -5,7 +5,7 @@
 * account control
 * order control
 
-### plot.py
+### plotting.py
 * streaming stock data visualization
 * vectorized bactest visualization
 
