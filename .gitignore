@@ -1,4 +1,8 @@
 # ignore ipython note book
 *.ipynb
+logs/
 # ignore log file
 *.log
+# ignore pycache
+__pycache__/
+*.py[cod]
