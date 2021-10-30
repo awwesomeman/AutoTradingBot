@@ -1,0 +1,4 @@
+# ignore ipython note book
+*.ipynb
+# ignore log file
+*.log
