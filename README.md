@@ -1,13 +1,13 @@
-## trade_data.py
+### trade_data.py
 * prepare historical and straming data with Shioaji API
 
-## trade.py
+### trade.py
 * account control
 * order control
 
-## plot.py
+### plot.py
 * streaming stock data visualization
 * vectorized bactest visualization
 
-## indicator.py
+### indicator.py
 * customized technical indicators
