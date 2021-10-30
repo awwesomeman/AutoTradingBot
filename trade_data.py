@@ -10,11 +10,11 @@ import re
 
 def api_connection(ca_path:str='C:\\Users\\tsunglin\\Desktop\\SinoPac.pfx'):
     api = sj.Shioaji()
-    accounts = api.login("B122907037", "cometrue4312")
+    accounts = api.login("id_number", "password")
     api.activate_ca(
         ca_path = ca_path,
-        ca_passwd = 'B122907037',
-        person_id = 'B122907037',
+        ca_passwd = 'id_number',
+        person_id = 'id_number',
     )
     return api
 
